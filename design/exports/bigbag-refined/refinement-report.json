@@ -1,0 +1,21 @@
+{
+  "source_sha256": "12227960ba65ede9aa96086ac96b298fec47d8def7633d1c8694a95d6eb73dc0",
+  "source_unchanged": true,
+  "derived_file": "bigbag-refined.glb",
+  "triangles": 17671,
+  "editable_mesh_objects": 30,
+  "export_mesh_objects": 1,
+  "notes": [
+    "White body and bottom",
+    "Clean reconstructed shell, filling neck and corner webbing; smoother than original",
+    "Surface fitted straight strap legs with stand-off",
+    "White straight stitch lines",
+    "Origin centered; normalized model dimensions"
+  ],
+  "rendered_views": [
+    "front",
+    "back",
+    "bottom",
+    "top"
+  ]
+}

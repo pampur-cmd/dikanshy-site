@@ -1,0 +1,67 @@
+{
+  "file_bytes": 4500096,
+  "sha256": "12227960ba65ede9aa96086ac96b298fec47d8def7633d1c8694a95d6eb73dc0",
+  "generator": "Tripo",
+  "meshes": 1,
+  "materials": 1,
+  "vertices": 55519,
+  "triangles": 95034,
+  "animations": 0,
+  "skins": 0,
+  "images": [
+    {
+      "name": "бигбег_basecolor.jpg",
+      "bytes": 222682,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "бигбег_rm.png",
+      "bytes": 1207271,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "бигбег_normal.jpg",
+      "bytes": 150704,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "bounds_min": [
+    -43.61150360107422,
+    0.0,
+    -42.03469467163086
+  ],
+  "bounds_max": [
+    43.61150360107422,
+    99.92520904541016,
+    42.03469467163086
+  ],
+  "uv_min": [
+    0.0008718660101294518,
+    0.0008717179298400879
+  ],
+  "uv_max": [
+    0.9913350939750671,
+    0.9991281628608704
+  ],
+  "unique_positions_rounded_5dp": 47511,
+  "boundary_edges_after_position_weld": 0,
+  "nonmanifold_edges_after_position_weld": 0,
+  "collapsed_triangles_after_position_weld": 0,
+  "valid_index_range": true,
+  "finite_positions": true,
+  "extensions_used": [
+    "KHR_materials_specular",
+    "KHR_materials_volume",
+    "FB_ngon_encoding"
+  ],
+  "extensions_required": []
+}
