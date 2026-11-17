@@ -34,3 +34,4 @@ dist/
 coverage/
 *.log
 *.tsbuildinfo
+/design/exports/development-tools/runtime/
