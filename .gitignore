@@ -1,0 +1,36 @@
+# Local legacy Joomla backup and database dumps
+/files/
+*.sql
+*.sql.*
+*.dump
+*.dump.*
+
+# Local migration notes and staging helpers
+/MIGRATION_PLAN.md
+/feed-base-path.patch
+/feed-preview-proxy.mjs
+/fix-joomla-preview-images.sh
+/start-feed-preview-db.sh
+/start-joomla-preview.sh
+
+# Secrets and machine-specific settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*service-account*.json
+/.aws/
+/.codex/
+/.claude/
+
+# Generated files
+.DS_Store
+node_modules/
+.next/
+dist/
+coverage/
+*.log
+*.tsbuildinfo
